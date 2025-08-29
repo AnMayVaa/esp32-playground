@@ -5,7 +5,6 @@ This project is a simple digital counter that displays numbers from 0 to 9999 on
 The main purpose of this project is to demonstrate the control of cascaded MAX7219 modules and how to create custom text rendering functions to handle a rotated (vertical) display orientation.
 
 ![_Your_GIF_or_Image_Here_](https://github.com/AnMayVaa/esp32-playground/blob/main/images/01-01.jpg?raw=true)
-*(Suggestion: Replace the placeholder above with a real photo or GIF of your counter in action!)*
 
 ## Features
 
